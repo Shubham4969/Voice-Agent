@@ -1,0 +1,5 @@
+services:
+   qdrant-db:
+      image: qdrant/qdrant
+      potrts:
+      - 6333:6333
